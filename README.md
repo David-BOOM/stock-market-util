@@ -8,12 +8,14 @@ A multiple purpose command line interface application for getting news and stock
 2. Run
 
 ## Pro:
-1. Install modules in requirements.txt by using
+1. Download the repository
+
+2. Install modules in requirements.txt by using
    ````
    pip install -r requirements.txt
    ````
 
-2. Run
+3. Run
    ````
    python getstock.py
    ````
