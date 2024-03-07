@@ -1,5 +1,5 @@
 # stock-market-util
-A multiple purpose command line interface application for getting news and stock history.
+A multiple purpose command line interface application for getting news and stock history using yfinance.
 
 # How to use it
 
