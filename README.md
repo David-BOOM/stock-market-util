@@ -1,5 +1,5 @@
 # stock-market-util
-A multiple purpose command line interface application for getting news and stock history using yfinance.
+## Deprecated due to the update of y-finance api.
 
 # How to use it
 
